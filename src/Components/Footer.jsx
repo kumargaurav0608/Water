@@ -1,12 +1,12 @@
 import React from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {
-  faFacebookF,
-  faTwitter,
-  faInstagram,
-  faLinkedinIn,
-  faYoutube,
-} from '@fortawesome/free-brands-svg-icons';
+// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+// import {
+//   faFacebookF,
+//   faTwitter,
+//   faInstagram,
+//   faLinkedinIn,
+//   faYoutube,
+// } from '@fortawesome/free-brands-svg-icons';
 
 function Footer() {
   return (
@@ -36,7 +36,7 @@ function Footer() {
             </div>
            
         </div>
-        <div className="right-footer w-[100/3]">
+        {/* <div className="right-footer w-[100/3]">
             <p className='text-center font-bold'>Contact us</p>
               <p className='text-center text-md font-semibold'>Water Valley Water Park <br></br> <span className='italic text-sm font-normal'>(A unit of Ananda Resorts)</span></p>
                <div className="flex justify-center items-center gap-6">
@@ -80,9 +80,9 @@ function Footer() {
         >
           <FontAwesomeIcon icon={faYoutube} />
         </a>
-      </div>
+      </div> */}
     
-        </div>
+        {/* </div> */}
         </div>
 
         {/* <p className='text-center'>Copyright </p> */}
